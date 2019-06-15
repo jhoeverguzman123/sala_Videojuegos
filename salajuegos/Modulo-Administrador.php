@@ -2,8 +2,7 @@
 <html>
 <head>
 	<title>Welcome to play gamer </title>
-	<meta charset="utf-8">
-
+  <link rel="icon" type="css/icon.png" href="css/icon2.png" width="500" height="100" />
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
@@ -31,10 +30,14 @@
         <ul class="menu__item">
           <li class=""><a href="facturacion.php" class=" ">Módulo Facturacion</a></li><br>
                </br>
-        
-           </div>
+               <ul class="menu__item">
+          <li class=""><a href="ClasificacionJuegos.php" class=" ">Módulo clasificacion de juegos</a></li><br>
+               </br>
+            </div>
         </ul>
-     
+        <center>
+      <a href="javascript:history.go(-1);"><font size="2" face="Arial, Helvetica, sans-serif">Volver al formulario</font></a>
+    </center>
 
        </body>
 </html>

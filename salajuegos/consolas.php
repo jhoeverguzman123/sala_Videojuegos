@@ -2,9 +2,10 @@
 <html>
 <head>
 	<title>Welcome to play gamer </title>
-<link rel="stylesheet" type="text/css" href="css/styleA.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="icon" type="css/icon.png" href="css/icon2.png" width="500" height="100" />
+    <link rel="stylesheet" type="text/css" href="css/styleA.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 <body>
   <div id="login">
@@ -32,5 +33,6 @@
         </center>
         </br>          
         <p><input type="submit" value="Guardar"></p>
+        <a href="javascript:history.go(-1);"><font size="2" face="Arial, Helvetica, sans-serif">Volver al formulario</font></a>
 </body>
 </html>

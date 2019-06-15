@@ -13,6 +13,17 @@ select[name="Estado"]{
    margin-left: auto;
    margin-right: auto;
 }
+strong[name="tiempo"]{
+    border: none;
+   border-radius: 6px;
+   display: block;
+   font-size: 1em;
+   height: 2em;
+   text-align: center;
+   width: 90%;
+   margin-left: auto;
+   margin-right: auto;
+   }
 input[type="datetime-local"]{
 	border:none;
 	width: 90%;
@@ -20,8 +31,10 @@ input[type="datetime-local"]{
    margin-right: auto;
 }
 
+h2{
+   color: blue;
 
-	
 }
-.Estilo9 {
-	color: 1}
+	
+
+

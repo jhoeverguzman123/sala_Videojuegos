@@ -32,8 +32,7 @@
   <p>
    
 <p><input type="submit" value="Guardar"></p>
-  </p>
-
+  <a href="javascript:history.go(-1);"><font size="2" face="Arial, Helvetica, sans-serif">Volver al formulario</font></a>
     </form>
 </body>
 </html>
